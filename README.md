@@ -14,11 +14,11 @@ An intelligent travel guidance web app that helps users explore restaurants, hot
 ##  Features
 
 - 🔍Search for **restaurants**, **hotels**, and **attractions** based on user-selected location.
-- 🗺Interactive **Google Maps** with location pins and info popups.
+- Interactive **Google Maps** with location pins and info popups.
 - 📱Fully responsive UI for both **mobile** and **desktop**.
 -  Filter places by rating and type (e.g., fine dining, budget hotels).
 -  Autocomplete search powered by Google Places API.
-- 🌐Real-time data fetching from 3rd-party APIs.
+- Real-time data fetching from 3rd-party APIs.
 
 ##  Getting Started
 
